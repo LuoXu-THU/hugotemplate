@@ -72,4 +72,4 @@ highlight_name: false
 
 <p style="text-align:justify;"> Kent is a NTR from <a href="https://mxd.web.sdo.com/web6/home/index.asp" target="_blank">MapleStory</a>.</p>
 
-<p style="text-align:justify;"> 思桃桃是<a href="https://mxd.web.sdo.com/web6/home/index.asp" target="_blank">冒险岛</a>的牛头人.Kent原来是思桃桃，我就知道.Kent原来是思桃桃，我就知道.Kent原来是思桃桃，我就知道.Kent原来是思桃桃，我就知道.</p>
+<p style="text-align:justify;"> 思桃桃是<a href="https://mxd.web.sdo.com/web6/home/index.asp" target="_blank">冒险岛</a>的牛头人.Kent原来是思桃桃，我就知道.Kent原来是思桃桃，我就知道.Kent原来是思桃桃，我就知道.Kent原来是思桃桃，我就知道.Kent原来是思桃桃，我就知道.Kent原来是思桃桃，我就知道.Kent原来是思桃桃，我就知道.</p>
