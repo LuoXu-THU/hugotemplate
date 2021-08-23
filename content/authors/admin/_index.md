@@ -1,39 +1,39 @@
 ---
 # Display name
-title: KENT思桃桃
+title: KENT
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: NTR
+role: 思桃桃
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: ZzF
-  url: https://www.stanford.edu/
+- name: Zz贼贼团F
+  url: https://mxd.web.sdo.com/web6/home/index.asp
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- NTR
+- NTR
+- NTR
 
 # Education to show in About widget
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+# education:
+#   courses:
+#   - course: PhD in Artificial Intelligence
+#     institution: Stanford University
+#     year: 2012
+#   - course: MEng in Artificial Intelligence
+#     institution: Massachusetts Institute of Technology
+#     year: 2009
+#   - course: BSc in Artificial Intelligence
+#     institution: Massachusetts Institute of Technology
+#     year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -72,4 +72,4 @@ highlight_name: false
 
 <p style="text-align:justify;"> Kent is a NTR from <a href="https://mxd.web.sdo.com/web6/home/index.asp" target="_blank">MapleStory</a>.</p>
 
-<p style="text-align:justify;"> 思桃桃是<a href="https://mxd.web.sdo.com/web6/home/index.asp" target="_blank">冒险岛</a>的牛头人.</p>
+<p style="text-align:justify;"> 思桃桃是<a href="https://mxd.web.sdo.com/web6/home/index.asp" target="_blank">冒险岛</a>的牛头人.Kent原来是思桃桃，我就知道.Kent原来是思桃桃，我就知道.Kent原来是思桃桃，我就知道.Kent原来是思桃桃，我就知道.</p>
